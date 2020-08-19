@@ -12,4 +12,4 @@ As an engineering leader, I believe it is my social responsibility and privilege
 <img align='right' src='https://media.giphy.com/media/bcKmIWkUMCjVm/giphy.gif' width='200"'>
 
 
-[![Linkedin Badge](https://img.shields.io/badge/-Alex Jones-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/alex-jones-a55ab422/)](https://www.linkedin.com/in/alex-jones-a55ab422/)
+[![Linkedin Badge](https://img.shields.io/badge/-AlexJones-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/alex-jones-a55ab422/)](https://www.linkedin.com/in/alex-jones-a55ab422/)
