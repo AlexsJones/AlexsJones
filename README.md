@@ -1,5 +1,8 @@
 **Hello world**
 
+[![Linkedin Badge](https://img.shields.io/badge/-AlexJones-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/alex-jones-a55ab422/)](https://www.linkedin.com/in/alex-jones-a55ab422/)
+
+
 ![Alex's github stats](https://github-readme-stats.vercel.app/api?username=AlexsJones&hide=["issues"]&show_icons=true)
 
 I count myself lucky to be part of the community developing the future of cloud-native technology. I focus time on translating technology into tangible benefits for end-users and lower the bar to participation whilst increasing the adoption of best practices
@@ -14,4 +17,3 @@ As an engineering leader, I believe it is my social responsibility and privilege
 </br>
 
 
-[![Linkedin Badge](https://img.shields.io/badge/-AlexJones-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/alex-jones-a55ab422/)](https://www.linkedin.com/in/alex-jones-a55ab422/)
