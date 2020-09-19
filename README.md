@@ -12,4 +12,6 @@ As an engineering leader, I believe it is my social responsibility and privilege
 <img align='left' src='https://raw.githubusercontent.com/AlexsJones/AlexsJones/master/tenor-2.gif' width='200"'>
 
 </br>
+
+
 [![Linkedin Badge](https://img.shields.io/badge/-AlexJones-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/alex-jones-a55ab422/)](https://www.linkedin.com/in/alex-jones-a55ab422/)
