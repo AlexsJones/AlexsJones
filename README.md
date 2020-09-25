@@ -1,4 +1,4 @@
-** Projects I've built you might find interesting **
+### Projects I've built you might find interesting
 
 - Jaeger span generator: https://github.com/AlexsJones/jaeger-bomb
 - GitOps Kubernetes with ArgoCD: https://github.com/AlexsJones/gitops-kubernetes-cluster
