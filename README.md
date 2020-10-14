@@ -4,6 +4,7 @@ Projects I've built you might find interesting...
 - GitOps Kubernetes with ArgoCD: https://github.com/AlexsJones/gitops-kubernetes-cluster
 - Operator template code for Kubernetes: https://github.com/AlexsJones/KubeOps
 - Kubernetes Observability example: https://github.com/AlexsJones/kubernetes-observability-stack
+- Kubernetes for a startup example  https://github.com/AlexsJones/kube-microcosm
 
 
 [![Linkedin Badge](https://img.shields.io/badge/-AlexJones-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/alex-jones-a55ab422/)](https://www.linkedin.com/in/alex-jones-a55ab422/)
