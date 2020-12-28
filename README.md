@@ -14,7 +14,7 @@ Projects I've built you might find interesting...
 
 I count myself lucky to be part of the community developing the future of cloud-native technology. I focus time on translating technology into tangible benefits for end-users and lower the bar to participation whilst increasing the adoption of best practices
 
-Container orchestration, cloud infrastructure design, microservice programming and SRE practices are activities that have drawn much of my focus. Working for companies such as American Express, Microsoft, BSkyB, Beamery and more.
+Container orchestration, cloud infrastructure design, microservice programming and SRE practices are activities that have drawn much of my focus. Working for companies such as JPMorgan & Chase, American Express, Microsoft, BSkyB, Beamery and more.
 
 As an engineering leader, I believe it is my social responsibility and privilege to reciprocate knowledge and help provide opportunities to others. My ambition is to act as a force multiplier to help those without a voice within the cloud-native community and my own organisation to be heard.
 
