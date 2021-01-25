@@ -18,9 +18,6 @@ Container orchestration, cloud infrastructure design, microservice programming a
 
 As an engineering leader, I believe it is my social responsibility and privilege to reciprocate knowledge and help provide opportunities to others. My ambition is to act as a force multiplier to help those without a voice within the cloud-native community and my own organisation to be heard.
 
-
-<img align='left' src='https://raw.githubusercontent.com/AlexsJones/AlexsJones/master/tenor-2.gif' width='200"'>
-
 </br>
 
 
