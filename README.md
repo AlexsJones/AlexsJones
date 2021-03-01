@@ -1,5 +1,5 @@
 Projects I've built you might find interesting...
-
+- Out of the box SRE infrastructure for Gitlab on AWS: https://github.com/AlexsJones/sre-infra-aws
 - Jaeger span generator: https://github.com/AlexsJones/jaeger-bomb
 - GitOps Kubernetes with ArgoCD: https://github.com/AlexsJones/gitops-kubernetes-cluster
 - Operator template code for Kubernetes: https://github.com/AlexsJones/KubeOps
