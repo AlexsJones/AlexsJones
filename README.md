@@ -20,4 +20,6 @@ As an engineering leader, I believe it is my social responsibility and privilege
 
 </br>
 
+![kitty](kitty.gif)
+
 
