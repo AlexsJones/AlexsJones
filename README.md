@@ -1,4 +1,5 @@
 Projects I've built you might find interesting...
+- Linkerd traffic splitting https://github.com/AlexsJones/smc2021-demo ( Service mesh con 2021 demo ) 
 - Out of the box SRE infrastructure for Gitlab on AWS: https://github.com/AlexsJones/sre-infra-aws
 - Jaeger span generator: https://github.com/AlexsJones/jaeger-bomb
 - GitOps Kubernetes with ArgoCD: https://github.com/AlexsJones/gitops-kubernetes-cluster
