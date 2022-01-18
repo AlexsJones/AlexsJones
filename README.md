@@ -20,7 +20,7 @@ I count myself lucky to be part of the community developing the future of cloud-
 
 Container orchestration, cloud infrastructure design, microservice programming and SRE practices are activities that have drawn much of my focus. Working for companies such as JPMorgan & Chase, American Express, Microsoft, BSkyB, Beamery and more.
 
-As an engineering leader, I believe it is my social responsibility and privilege to reciprocate knowledge and help provide opportunities to others. My ambition is to act as a force multiplier to help those without a voice within the cloud-native community and my own organisation to be heard.
+As an engineering leader, I believe it is my social responsibility and privilege to share knowledge and help provide opportunities to others. My ambition is to act as a force multiplier to help those without a voice within the cloud-native community and my own organisation to be heard.
 
 </br>
 
