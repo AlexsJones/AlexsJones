@@ -1,30 +1,3 @@
-Check out my organisation
-- https://github.com/cloud-native-skunkworks
 
-Projects I've built you might find interesting...
-- Linkerd traffic splitting https://github.com/AlexsJones/smc2021-demo ( Service mesh con 2021 demo ) 
-- Out of the box SRE infrastructure for Gitlab on AWS: https://github.com/AlexsJones/sre-infra-aws
-- Jaeger span generator: https://github.com/AlexsJones/jaeger-bomb
-- GitOps Kubernetes with ArgoCD: https://github.com/AlexsJones/gitops-kubernetes-cluster
-- Operator template code for Kubernetes: https://github.com/AlexsJones/KubeOps
-- Kubernetes Observability example: https://github.com/AlexsJones/kubernetes-observability-stack
-- Kubernetes for a startup example:  https://github.com/AlexsJones/kube-microcosm
-
-
-[![Linkedin Badge](https://img.shields.io/badge/-AlexJones-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/alex-jones-a55ab422/)](https://www.linkedin.com/in/alex-jones-a55ab422/)
-
-
-![Alex's github stats](https://github-readme-stats.vercel.app/api?username=AlexsJones&hide=["issues"]&show_icons=true)
-
-I count myself lucky to be part of the community developing the future of cloud-native technology. I focus time on translating technology into tangible benefits for end-users and lower the bar to participation whilst increasing the adoption of best practices
-
-Container orchestration, cloud infrastructure design, microservice programming and SRE practices are activities that have drawn much of my focus. Working for companies such as JPMorgan & Chase, American Express, Microsoft, BSkyB, Beamery and more.
-
-As an engineering leader, I believe it is my social responsibility and privilege to share knowledge and help provide opportunities to others. My ambition is to act as a force multiplier to help those without a voice within the cloud-native community and my own organisation to be heard.
-
-</br>
 
 ![kitty](kitty.gif)
-
-
-_What's not to like with this gif?_
