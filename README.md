@@ -1,1 +1,1 @@
-https://k8sgpt.ai
+https://axjns.dev
